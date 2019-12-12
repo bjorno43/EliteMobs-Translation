@@ -10,99 +10,99 @@ nameFormats:
 - The $adjective $verb-er
 nouns:
 - MagmaGuy
-- Dawn
-- Sunset
-- Heaven
-- Hell
-- Angel
-- Archangel
-- Cherub
-- Seraph
+- Dageraad
+- Zonsondergang
+- Hemel
+- Hel
+- Engel
+- Aartsengel
+- Cherubijn
+- Serafijn
 - Demon
-- Fiend
-- Bat
-- Chicken
-- Cow
-- Mooshroom
-- Pig
-- Rabbit
-- Sheep
-- Squid
-- Villager
-- Cave Spider
+- Monste
+- Vleermuis
+- Kip
+- Koe
+- Paddestoelkoe
+- Varken
+- Konijn
+- Schaap
+- Inktvis
+- Dorpeling
+- Grot Spin
 - Enderman
-- Polar Bear
-- Spider
-- Zombie Pigman
+- Ijsbeer
+- Spin
+- Zombie Varken
 - Blaze
 - Creeper
 - Elder Guardian
 - Endermite
-- Evoker
+- Oproeper
 - Ghast
-- Guardian
-- Husk
-- Magma Cube
+- Beschermer
+- Schil
+- Magma Blok
 - Shulker
-- Silverfish
-- Skeleton
-- Slime
-- Stray
+- Zilvervis
+- Skelet
+- Slijm
+- Verdwaald
 - Vex
-- Vindicator
-- Witch
-- Wither Skeleton
+- Verdediger
+- Heks
+- Verdord Skelet
 - Zombie
-- Donkey
-- Horse
-- Llama
-- Mule
+- Ezel
+- Paard
+- Lama
+- Muildier
 - Ocelot
 - Wolf
-- Iron Golem
-- Snow Golem
-- Ender Dragon
-- Wither
-- Illusioner
-- Parrot
-- Giant
-- Killer Bunny
+- Ijzeren Golem
+- Sneeuw Golem
+- Ender Draak
+- Verdord
+- Goochelaar
+- Papegaai
+- Reus
+- Moordend Konijn
 - Steve
 - Wolfbane
 - Chaos
 - Aeon
-- Dragon
+- Draak
 - Sphynx
 - Minotaur
 - Hades
-- Oath
-- Oathbreaker
-- Deserter
-- Betrayer
+- Eed
+- Eedverbreker
+- Deserteur
+- Verrader
 - Jade
-- Light
-- Darkness
-- Oblivion
-- Shadow
-- Void
+- Licht
+- Duisternis
+- Vergetelheid
+- Schaduw
+- Leegte
 - Xeno
-- Zealot
-- Zenith
-- Dusk
-- Twilight
-- Mob
-- Elite  Mob
+- Ijveraar
+- Zenit
+- Schemer
+- Schemering
+- Monster
+- Elite Monster
 - Urist
-- Dwarf
+- Dwerg
 - Elf
 - Ork
-- Goblin
-- Gnome
+- Aardman
+- Kabouter
 - Goliath
 - Drow
-- Human
+- Mens
 - Halfling
-- Half-Orc
+- Half-Ork
 - Beholder
 - Mind Flayer
 - Owlbear
@@ -1349,17 +1349,17 @@ validMaterials:
   FISHING_ROD: true
   BOW: true
 materialNames:
-  swordName: Sword
-  bowName: Bow
-  pickaxe: Pickaxe
-  spade: Spade
-  hoe: Hoe
-  axe: Axe
-  helmet: Helmet
-  chestplate: Chestplate
-  leggings: Leggings
-  boots: Boots
-  shears: Shears
-  fishingRod: Fishing Rod
-  shield: Shield
-  trident: Trident
+  swordName: Zwaard
+  bowName: Boog
+  pickaxe: Pikhouweel
+  spade: Schep
+  hoe: Schoffel
+  axe: Hakbijl
+  helmet: Helm
+  chestplate: Borstplaat
+  leggings: Broek
+  boots: Schoenen
+  shears: Schaar
+  fishingRod: Vishengel
+  shield: Schild
+  trident: Drietand
