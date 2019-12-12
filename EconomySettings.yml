@@ -1,12 +1,12 @@
 enableEconomy: true
 itemResaleValue: 5.0
-currencyName: Elite Coins
+currencyName: Elite Munten
 useVault - not recommended: false
 enableCurrencyShower: true
 currencyShowerTierMultiplier: 1.0
-chatCurrencyShowerMessage: '&7[EM] You''ve picked up &a$amount $currency_name!'
-actionbarCurrencyShowerMessage: '&7[EM] You''ve picked up &a$amount $currency_name!'
-adventurersGuildNotificationMessage: '&7[EM] Extra spending money? Try &a/ag &7or
+chatCurrencyShowerMessage: '&7[EM] U heeft &a$amount $currency_name opgepakt!'
+actionbarCurrencyShowerMessage: '&7[EM] U heeft &a$amount $currency_name opgepakt!'
+adventurersGuildNotificationMessage: '&7[EM] Extra geld nodig? Probeer &a/ag &7of
   &a/em shop&7!'
 lootShowerMaterials:
   '1': GOLD_NUGGET
